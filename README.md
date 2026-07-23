@@ -1,3 +1,14 @@
+---
+title: Whisper
+emoji: 🎈
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.60.0
+app_file: streamlit_app.py
+pinned: false
+---
+
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
